@@ -1,5 +1,5 @@
 ---
-title: Audio branding
+title: Audio Branding
 type: service
 quote: In today’s world, brands must now treat the sound with the same care and discipline as they do their graphic standards and visual brand-building. If you’re stuck in the visual-only branding world, you are competing with one hand tied behind your back.
 author: Laurence Minsky, Colleen Fahey
