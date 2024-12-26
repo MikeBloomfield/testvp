@@ -17,7 +17,7 @@ draft: false
 type: "work"
 ---
 
-[robota.ua](http://robota.ua/) is not just a job search site; it is a product company with unique features integrated into its products: searching for jobs on the map and selecting them with the help of artificial intelligence, employer verification, resume builder, etc.
+[robota.ua](https://robota.ua/) is not just a job search site; it is a product company with unique features integrated into its products: searching for jobs on the map and selecting them with the help of artificial intelligence, employer verification, resume builder, etc.
 
 Job search is a job in itself, so robota.ua does its best to make it easier by providing great solutions that save time and help people find cool jobs faster.
 
