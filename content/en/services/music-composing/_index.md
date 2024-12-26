@@ -1,5 +1,5 @@
 ---
-title: Music composing
+title: Music Composing
 type: service
 quote: Music is indeed the mediator between the spiritual and the sensual life.
 author: Ludwig van Beethoven
