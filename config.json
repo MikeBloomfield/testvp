@@ -1,6 +1,7 @@
 {
   "baseURL": "http://localhost",
   "title": "VP Production",
+  "uglyURLs": true,
   "imaging": {
     "bgColor": "#000",
     "hint": "picture",
@@ -124,25 +125,25 @@
             "weight": 20
           },
           {
-            "name": "Music composing",
+            "name": "Music Composing",
             "pageRef": "/services/music-composing",
             "parent": "Services",
             "weight": 1
           },
           {
-            "name": "Audio branding",
+            "name": "Audio Branding",
             "pageRef": "/services/audio-branding",
             "parent": "Services",
             "weight": 2
           },
           {
-            "name": "Sound design",
+            "name": "Sound Design",
             "pageRef": "/services/sound-design",
             "parent": "Services",
             "weight": 3
           },
           {
-            "name": "Voice casting",
+            "name": "Voice Casting",
             "pageRef": "/services/voice-casting",
             "parent": "Services",
             "weight": 4
@@ -158,7 +159,7 @@
             "weight": 40
           },
           {
-            "name": "Our values",
+            "name": "Our Values",
             "pageRef": "/our-values",
             "weight": 50
           },
@@ -168,7 +169,7 @@
             "weight": 60
           },
           {
-            "name": "Press kit",
+            "name": "Press Kit",
             "params": {
               "rel": "external noopener noreferrer nofollow",
               "target": "_blank"
