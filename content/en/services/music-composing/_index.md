@@ -26,9 +26,6 @@ We compose soundtracks and create music for:
 {{<service_what_we_do_list_item title="Immersive experiences" img="/images/services/experiences-icon.svg" >}}
 {{</service_what_we_do_list>}}
 
-We can also compose music for motion graphics, but it mainly intersects with a well-thought-out sound design, so we advise you to [read more about it here](/en/works/audio-for-motion-design/).
-{{%/service_section%}}
-
 {{<service_section title="Our Best Soundtracks">}}
 {{<youtube "4Bf1rYeIQ3w" >}}
 {{</service_section>}}
