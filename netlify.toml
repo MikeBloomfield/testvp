@@ -28,3 +28,13 @@ status = 301
 from = "/ru/reviews"
 to = "/reviews"
 status = 301
+
+[[redirects]]
+from = "/en/"
+to = "/en"
+status = 301
+
+[[redirects]]
+from = "/portfolio/"
+to = "/portfolio"
+status = 301
