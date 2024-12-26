@@ -64,9 +64,9 @@ Apart from Personal Data, We collect particular information about You automatica
 
 Automatically-collected data is collected and stored by third-party servers, namely **Google** and **Pixel Facebook**.
 
-[**Pixel Facebook**](https://www.facebook.com/privacy/explanation). This is an analytical tool that allows Us to measure the effectiveness of advertising and study the actions of Users on the Website. Facebook Pixel allows to: find new customers or people who have visited a particular page or performed a specific action on the Website, increase sales, and track events that occur as a result of viewing an ad to better understand how it affects User’s behavior. 
+[Pixel Facebook](https://www.facebook.com/privacy/policy). This is an analytical tool that allows Us to measure the effectiveness of advertising and study the actions of Users on the Website. Facebook Pixel allows to: find new customers or people who have visited a particular page or performed a specific action on the Website, increase sales, and track events that occur as a result of viewing an ad to better understand how it affects User’s behavior. 
 
-[**Google Analytics (Google LLC)**](https://policies.google.com/privacy). Google Analytics is a web analysis service provided by Google LLC (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities, and to share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network (Usage Data Processors).
+[Google Analytics (Google LLC)](https://policies.google.com/privacy). Google Analytics is a web analysis service provided by Google LLC (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities, and to share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network (Usage Data Processors).
 
 Google Analytics may also place Cookies on Your device. Cookies help Us to customise the Website and Our Services accordingly. Cookies can also be used to establish anonymised statistics about the browsing experience on the Website.
 
@@ -103,7 +103,7 @@ The Usage and Personal Data are processed at the Owner’s operating offices and
 
 Furthermore, We can provide Your emails for processing by the platform Mailchimp.
 
-[**Mailchimp**](https://mailchimp.com/legal/). All-in-one marketing platform that helps Us manage and talk to Our Users, and other interested parties to establish a dialogue. The Platform provides high-quality management and systematization of Information, provides data analysis based on it.
+[Mailchimp](https://mailchimp.com/legal/). All-in-one marketing platform that helps Us manage and talk to Our Users, and other interested parties to establish a dialogue. The Platform provides high-quality management and systematization of Information, provides data analysis based on it.
 
 Depending on the User’s location, data interpretation may involve transferring the User’s Data to a country other than their own.
 
