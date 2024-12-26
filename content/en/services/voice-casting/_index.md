@@ -1,5 +1,5 @@
 ---
-title: Voice casting
+title: Voice Casting
 type: service
 quote: The human voice is the most beautiful instrument of all, but it is the most difficult to play
 author: Richard Strauss
