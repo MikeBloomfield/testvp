@@ -26,6 +26,8 @@ We compose soundtracks and create music for:
 {{<service_what_we_do_list_item title="Immersive experiences" img="/images/services/experiences-icon.svg" >}}
 {{</service_what_we_do_list>}}
 
+{{%/service_section%}}
+
 {{<service_section title="Our Best Soundtracks">}}
 {{<youtube "4Bf1rYeIQ3w" >}}
 {{</service_section>}}
