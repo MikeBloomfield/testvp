@@ -1,5 +1,5 @@
 ---
-title: Sound design 
+title: Sound Design 
 type: service
 quote: Sound is crucial in the production of games and movies. 60% or even 70% of sensations are evoked precisely by sound. At the same time, sound is not only music but also sound effects. Their presence or absence greatly defines the atmosphere of the game.
 author: Hideo Kojima
