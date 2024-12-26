@@ -28,8 +28,6 @@ aliases:
 {{<service_what_we_do_list_item title="Імерсивних досвідів" img="/images/services/experiences-icon.svg" >}}
 {{</service_what_we_do_list>}}
 
-Також за потреби ми створюємо музику для motion-графіки, проте здебільшого вона працює в зв’язці з продуманим звуковим дизайном, докладніше про неї ви можете прочитати [ось тут](/works/audio-for-motion-design/).
-
 І ні, ми не пишемо «мінусовки» та пісні для корпоративів. А ось бренд-треки — це ми залюбки, тож радимо вам дізнатися більше про [аудіобрендинг](/services/audio-branding/).
 {{%/service_section%}}
 
