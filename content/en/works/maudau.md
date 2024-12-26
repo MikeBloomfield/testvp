@@ -26,7 +26,7 @@ The MAUDAU team strives to turn routine shopping into a fast, high-quality proce
 
 ## Getting Started
 
-The same as during our collaboration with [PUMB Online](works/pumb-online), the MAUDAU team reached us to create sounds for their future app. However, during our first discussion, it became clear that the audio brand would be a more profitable investment of time and effort.
+The same as during our collaboration with [PUMB Online](/en/works/pumb-online), the MAUDAU team reached us to create sounds for their future app. However, during our first discussion, it became clear that the audio brand would be a more profitable investment of time and effort.
 
 >*An audio brand is a system of music and sounds that conveys the brand’s meaning at each touchpoint.*
 
