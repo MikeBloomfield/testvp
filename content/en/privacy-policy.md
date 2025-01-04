@@ -81,7 +81,7 @@ We collect and analyze:
 - history of transition;
 - connection duration data.
 
-VP Production will not use Cookies to collect Personal Data about You. You can manage / delete Cookies as You wish – for details, see [aboutcookies.org](https://aboutcookies.org/) But We caution that in such case some parts of Our Website will not function fully, or in some cases, the Website will not be accessible at all.
+VP Production will not use Cookies to collect Personal Data about You. You can manage / delete Cookies as You wish – for details, see [aboutcookies.org](https://www.aboutcookies.org/) But We caution that in such case some parts of Our Website will not function fully, or in some cases, the Website will not be accessible at all.
 
 ### Why We Have to Collect Information
 
