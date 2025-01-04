@@ -28,3 +28,10 @@ status = 301
 from = "/ru/reviews"
 to = "/reviews"
 status = 301
+
+[[redirects]]
+  from = "/:splat"
+  to = "/:splat"
+  status = 301
+  force = true
+  conditions = { path = "^/(.+//.*)$" }
