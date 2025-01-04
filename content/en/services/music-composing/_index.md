@@ -36,7 +36,7 @@ We compose soundtracks and create music for:
 
 Over the past years, we have developed a clear and compelling cooperation scheme that makes the creative process fast, exciting, and, most importantly, predictable. It allows us to co-create with you a product that your audience will love and remember.
 
-Below, we'll explain the pipeline, which is typical for composing game soundtracks. Although it is very similar to the scheme of creating audio brands, we recommend that you go to the [relevant page](/en/services/audio-branding/) if you are interested in branded music.
+Below, we'll explain the pipeline, which is typical for composing game soundtracks. Although it is very similar to the scheme of creating audio brands, we recommend that you go to the [relevant page](/en/services/audio-branding) if you are interested in branded music.
 
 </br></br>
 
