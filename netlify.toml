@@ -29,6 +29,122 @@ from = "/ru/reviews"
 to = "/reviews"
 status = 301
 
+[[redirects]]
+from = "/services/audio-reviews-and-consultations"
+to = "/"
+status = 301
 
+[[redirects]]
+from = "/en/services/audio-reviews-and-consultations"
+to = "/"
+status = 301
 
+[[redirects]]
+from = "/ru/services/audio-reviews-and-consultations"
+to = "/"
+status = 301
 
+[[redirects]]
+from = "/works/audio-for-motion-design"
+to = "/"
+status = 301
+
+[[redirects]]
+from = "/en/works/audio-for-motion-design"
+to = "/"
+status = 301
+
+[[redirects]]
+from = "/ru/works/audio-for-motion-design"
+to = "/"
+status = 301
+
+[[redirects]]
+from = "/works/birdsisle"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/en/works/birdsisle"
+to = "/en/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/ru/works/birdsisle"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/works/look-right"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/en/works/look-right"
+to = "/en/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/ru/works/look-right"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/works/necromancer"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/en/works/necromancer"
+to = "/en/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/ru/works/necromancer"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/works/jing-jing"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/en/works/jing-jing"
+to = "/en/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/ru/works/jing-jing"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/works/papaya-summer-farmg"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/en/works/papaya-summer-farm"
+to = "/en/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/ru/works/papaya-summer-farm"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/works/coral-isle-2-tropical-stories"
+to = "/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/en/works/coral-isle-2-tropical-stories"
+to = "/en/services/music-composing"
+status = 301
+
+[[redirects]]
+from = "/ru/works/coral-isle-2-tropical-stories"
+to = "/services/music-composing"
+status = 301
