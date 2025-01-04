@@ -58,7 +58,7 @@ We also discuss the nuances of the future implementation of sounds in advance an
 
 Next, we conduct research to gather information about the audio codes and clichés of your genre, as well as the expectations and preferences of the target audience. Thanks to this, we primarily form an understanding of how the sound design will help you stand out from the crowd.
 
-Having all the necessary information, we create a technical task and start forming [the audio concept](/en/faq#audio-concept) for your game. We also compile [audio mood boards](/en/faq#audio-mood-board)to show you the creative vector and establish a shared vision as early as possible..
+Having all the necessary information, we create a technical task and start forming [the audio concept](/en/faq#audio-concept) for your game. We also compile [audio mood boards](/en/faq#audio-mood-board) to show you the creative vector and establish a shared vision as early as possible..
 
 After the listening party (the clients' favourite part!), we jointly specify the project's creative framework and finalize its audio concept.
 {{< /details  >}}
