@@ -55,7 +55,7 @@ The main challenge of the project was waiting for us at the moment of sound desi
 
 ## Story Mode
 
-At the beginning of 2022, two new modes appeared in the game: [Ocean World](wildcraft-ocean-world) and Story Mode. While the first one feels like a brand-new game, the second is a logical extension of the classic WildCraft.
+At the beginning of 2022, two new modes appeared in the game: [Ocean World](/en/works/wildcraft-ocean-world) and Story Mode. While the first one feels like a brand-new game, the second is a logical extension of the classic WildCraft.
 
 In Story Mode, players can immerse in interactive stories of the animal world. They can also decide the fate of the main characters.
 
