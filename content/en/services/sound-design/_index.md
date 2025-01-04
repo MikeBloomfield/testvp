@@ -24,7 +24,7 @@ We create:
 {{<service_what_we_do_list_item title="UX sound design for apps" img="/images/services/advertising-icon.svg" >}}
 {{</service_what_we_do_list>}}
 
-We advise you to learn more about the latter on our [audio branding page](/en/services/audio-branding/) because UX sounds rarely exist outside the product's audio identity system.
+We advise you to learn more about the latter on our [audio branding page](/en/services/audio-branding) because UX sounds rarely exist outside the product's audio identity system.
 {{%/service_section%}}
 
 {{<service_section title="Our works">}}
@@ -35,7 +35,7 @@ We advise you to learn more about the latter on our [audio branding page](/en/se
 
 Over the past years, we have developed a clear and compelling cooperation scheme that makes the creative process fast, exciting, and, most importantly, predictable. It allows us to co-create with you a product that your audience will love and remember.
 
-Below, we'll explain the pipeline, which is typical for creating sound design for games. If you're interested in learning more about the process of creating UX sounds for apps, feel free to visit our [audio branding page](/en/services/audio-branding/). 
+Below, we'll explain the pipeline, which is typical for creating sound design for games. If you're interested in learning more about the process of creating UX sounds for apps, feel free to visit our [audio branding page](/en/services/audio-branding). 
 
 <br /><br />
 
@@ -58,14 +58,14 @@ We also discuss the nuances of the future implementation of sounds in advance an
 
 Next, we conduct research to gather information about the audio codes and clichés of your genre, as well as the expectations and preferences of the target audience. Thanks to this, we primarily form an understanding of how the sound design will help you stand out from the crowd.
 
-Having all the necessary information, we create a technical task and start forming [the audio concept](/en/faq/#audio-concept) for your game. We also compile [audio mood boards](/en/faq/#audio-mood-board)to show you the creative vector and establish a shared vision as early as possible..
+Having all the necessary information, we create a technical task and start forming [the audio concept](/en/faq#audio-concept) for your game. We also compile [audio mood boards](/en/faq#audio-mood-board)to show you the creative vector and establish a shared vision as early as possible..
 
 After the listening party (the clients' favourite part!), we jointly specify the project's creative framework and finalize its audio concept.
 {{< /details  >}}
 {{< details "4" "Production"  >}}
 Well, we've finally reached the point where we start working on the audio! 
 
-We most often work on projects where we create not only sound design but also a soundtrack. We always start by creating the main musical theme (or [an audio DNA](/en/faq/#audio-dna), as we usually call it) — the basis of your game's future sound. 
+We most often work on projects where we create not only sound design but also a soundtrack. We always start by creating the main musical theme (or [an audio DNA](/en/faq#audio-dna), as we usually call it) — the basis of your game's future sound. 
 
 This approach allows us to create not just a set of individual audio assets but an effective, harmonious system. You can read more about this process [here](/en/faq).
 
