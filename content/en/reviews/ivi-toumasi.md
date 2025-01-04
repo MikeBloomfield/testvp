@@ -8,7 +8,7 @@ services:
 position: Project Manager
 company: Hellenic Youth Participation
 project: HYP Podcasts
-link:
+link: https://www.linkedin.com/in/ivi-toumasi-377545194/
 draft: false
 type: "review"
 ---
