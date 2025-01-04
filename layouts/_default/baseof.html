@@ -2,6 +2,7 @@
 <html lang="{{ .Site.Language }}">
 
 <head>
+  <link rel="canonical" href="{{ .Permalink }}" />
   {{- partial "head.html" . -}}
   {{- block "meta" . }}{{ end -}}
   
