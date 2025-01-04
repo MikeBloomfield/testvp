@@ -148,3 +148,15 @@ status = 301
 from = "/ru/works/coral-isle-2-tropical-stories"
 to = "/services/music-composing"
 status = 301
+
+[[redirects]]
+  from = "/*/"
+  to = "/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*/*/"
+  to = "/:splat"
+  status = 301
+  force = true
