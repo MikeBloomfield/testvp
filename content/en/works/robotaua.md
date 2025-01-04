@@ -11,6 +11,7 @@ services:
 contributors:
 - Vlad Plotnikov
 - Ruslana Kruchek
+- Appa the Dog
 homePageWeight: 10
 weight: 10
 draft: false
