@@ -11,6 +11,7 @@ services:
 contributors:
 - Влад Плотніков
 - Руслана Кручек
+- Аппа
 homePageWeight: 10
 weight: 10
 draft: false
