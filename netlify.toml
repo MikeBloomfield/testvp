@@ -148,29 +148,3 @@ status = 301
 from = "/ru/works/coral-isle-2-tropical-stories"
 to = "/services/music-composing"
 status = 301
-
-# Додаємо нові специфічні правила для проблемних URL
-[[redirects]]
-from = "/portfolio/"
-to = "/portfolio"
-status = 301
-force = true
-
-[[redirects]]
-from = "/en/portfolio/"
-to = "/en/portfolio"
-status = 301
-force = true
-
-[[redirects]]
-from = "/en/"
-to = "/en"
-status = 301
-force = true
-
-# Загальне правило для множинних слешів
-[[redirects]]
-from = "/:splat//"
-to = "/:splat"
-status = 301
-force = true
