@@ -31,15 +31,16 @@ status = 301
 
 # Редирект для головної сторінки з багатьма слешами
 [[redirects]]
-  from = "//*/"
+  from = "//+"
   to = "/"
   status = 301
   force = true
 
-# Редирект для інших URL з багатьма слешами
+# Редирект для інших сторінок із багатьма слешами
 [[redirects]]
   from = "/:splat"
   to = "/:splat"
   status = 301
   force = true
   conditions = { path = "^/(.+//.*)$" }
+
