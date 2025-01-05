@@ -1,10 +1,5 @@
 # Redirect with a 301
 [[redirects]]
-from = "/en/"
-to = "/en"
-status = 301
-
-[[redirects]]
 from = "/ru"
 to = "/"
 status = 301
