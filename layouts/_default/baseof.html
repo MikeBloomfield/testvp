@@ -2,7 +2,6 @@
 <html lang="{{ .Site.Language }}">
 
 <head>
- <link rel="canonical" href="{{ .Permalink | replaceRE "\\.html$" "" }}" />
   {{- partial "head.html" . -}}
   {{- block "meta" . }}{{ end -}}
   
