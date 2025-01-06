@@ -1,9 +1,9 @@
 # Redirect with a 301
 [[redirects]]
-from = "/*/"
-to = "/:splat"
-status = 301
-force = true
+  from = "/portfolio/"
+  to = "/portfolio"
+  status = 301
+  force = true
 
 [[redirects]]
 from = "/ru"
