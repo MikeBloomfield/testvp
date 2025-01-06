@@ -1,5 +1,5 @@
 {
-  "baseURL": "https://demo-vp-prod.netlify.app",
+  "baseURL": "http://localhost",
   "title": "VP Production",
   "uglyURLs": true,
   "imaging": {
