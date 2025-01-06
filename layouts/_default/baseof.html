@@ -24,13 +24,7 @@
 
 <body>
 
-  {{ if eq .Section "en" }}
-  {{ .Permalink | replaceRE "/$" "" }}
-{{ end }}
 
-  {{ if eq .Section "portfolio" }}
-  {{ .Permalink | replaceRE "/$" "" }}
-{{ end }}
   
   {{- block "main" . }}{{ end -}}
 
