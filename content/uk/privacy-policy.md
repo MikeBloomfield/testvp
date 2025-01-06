@@ -1,5 +1,7 @@
 ---
 title: Політика конфіденційності
+seoTitle: Політика конфіденційності | VP Production
+seoDescription: Політика конфіденційності VP Production описує типи даних, які ми збираємо від наших користувачів, як вони використовуються, а також варіанти управління ними.
 layout: "privacy-policy"
 type: "page"
 draft: false
