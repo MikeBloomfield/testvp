@@ -7,17 +7,6 @@
 {{ define "main" }}
 {{- $works := where .Site.RegularPages ".Type" "work" -}}
 
-  <!-- SEO мета-теги -->
-  <head>
-    {{ if eq .Site.Language.Lang "uk" }}
-      <meta name="title" content="VP Production – студія саунд-дизайну та аудіобрендингу" />
-      <meta name="description" content="Саунд дизайн • Аудіобрендинг • Музика • Голосове озвучення для ігор, брендів, відео тощо ➤ VP Production – Створюємо ваше звучання." />
-    {{ else if eq .Site.Language.Lang "en" }}
-      <meta name="title" content="VP Production – Sound Design & Audio Branding Studio" />
-      <meta name="description" content="Sound Design • Audio Branding • Music • Voice-over for games, brands, videos and other media projects ➤ VP Production – Crafting your Sound." />
-    {{ end }}
-  </head>
-
 <!--  support section starts here  -->
 {{ partial "ukraine-support-panel.html" . }}
 <!--  support section ends here  -->
