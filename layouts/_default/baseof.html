@@ -18,8 +18,13 @@
   {{ end }}
 
   {{- block "js" . }}{{ end -}}
+
   
-{{ if eq .Section "en" }}
+</head>
+
+<body>
+
+  {{ if eq .Section "en" }}
   {{ .Permalink | replaceRE "/$" "" }}
 {{ end }}
 
@@ -27,9 +32,6 @@
   {{ .Permalink | replaceRE "/$" "" }}
 {{ end }}
   
-</head>
-
-<body>
   {{- block "main" . }}{{ end -}}
 
   {{- block "footer" . }}
