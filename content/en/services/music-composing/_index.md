@@ -1,5 +1,7 @@
 ---
 title: Music Composing
+seoTitle: Music and soundtrack creation services | VP Production
+seoDescription: Music and soundtrack creation services for games, trailers, brands, advertising, applications, etc. ➤ Cooperation process • Our approach • Price • Reviews
 type: service
 quote: Music is indeed the mediator between the spiritual and the sensual life.
 author: Ludwig van Beethoven

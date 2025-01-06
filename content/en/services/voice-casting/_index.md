@@ -1,5 +1,7 @@
 ---
 title: Voice Casting
+seoTitle: Voice-over services for videos, games and brands | VP Production
+seoDescription: Casting and recording the right voice for your project. Local and foreign voice actors. 7+ languages. ➤ Cooperation process • Our approach • Price • Reviews
 type: service
 quote: The human voice is the most beautiful instrument of all, but it is the most difficult to play
 author: Richard Strauss
