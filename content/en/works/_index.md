@@ -1,5 +1,5 @@
 ---
 title: Portfolio
-url: "portfolio"
+url: portfolio
 type: "work"
 ---
