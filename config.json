@@ -2,6 +2,13 @@
   "baseURL": "http://localhost",
   "title": "VP Production",
   "uglyURLs": true,
+  {
+  "permalinks": {
+    "en": "/en",
+    "portfolio": "/portfolio"
+  }
+}
+
   "imaging": {
     "bgColor": "#000",
     "hint": "picture",
