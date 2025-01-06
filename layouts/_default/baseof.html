@@ -19,7 +19,13 @@
 
   {{- block "js" . }}{{ end -}}
   
+{{ if eq .Section "en" }}
+  {{ .Permalink | replaceRE "/$" "" }}
+{{ end }}
 
+  {{ if eq .Section "portfolio" }}
+  {{ .Permalink | replaceRE "/$" "" }}
+{{ end }}
   
 </head>
 
