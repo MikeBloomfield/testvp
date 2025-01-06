@@ -1,5 +1,7 @@
 ---
 title: Privacy Policy
+seoTitle: Privacy Policy | VP Production
+seoDescription: VP Production's privacy policy outlines the types of data we gather from our users, how it is utilized and the choices you have to manage it.
 layout: "privacy-policy"
 type: "page"
 draft: false

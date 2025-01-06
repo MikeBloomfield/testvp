@@ -1,5 +1,7 @@
 ---
 title: FAQ
+seoTitle: FAQ | VP Production Agency
+seoDescription: Answering frequently asked questions ➤ Organization of the process • Legal details • Financial matters. Essential information to know before getting started.
 layout: faq
 type: page
 ---
