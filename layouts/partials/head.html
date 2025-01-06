@@ -12,15 +12,6 @@
 <meta name="description" content="{{ . }}" />
 {{- end }}
 
-<!-- SEO мета-теги для мов -->
-{{ if eq .Site.Language.Lang "uk" }}
-  <meta name="title" content="VP Production - Ваш партнер у створенні аудіо продуктів" />
-  <meta name="description" content="VP Production пропонує професійні послуги з аудіо продукції для ваших креативних потреб." />
-{{ else if eq .Site.Language.Lang "en" }}
-  <meta name="title" content="VP Production - Your Partner in Audio Production" />
-  <meta name="description" content="VP Production offers professional audio production services for your creative needs." />
-{{ end }}
-
 {{ if isset .Params "tags" }}
 {{ with .Params.tags }}
 {{ $tags := delimit . "," }}
