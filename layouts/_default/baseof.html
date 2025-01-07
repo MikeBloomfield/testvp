@@ -2,14 +2,6 @@
 <html lang="{{ .Site.Language }}">
 
 <head>
-  {{ if or (and (eq .RelPermalink "/") (eq .Lang "uk")) (and (eq .RelPermalink "/en/") (eq .Lang "en")) }}
-  <title>{{ i18n "seotitle" }}</title>
-  <meta name="description" content="{{ i18n "seodescription" }}">
-  {{ else }}
-  <title>{{ with .Params.seoTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</title>
-  <meta name="description" content="{{ with .Params.seoDescription }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
-  {{ end }}
-
   {{- partial "head.html" . -}}
   {{- block "meta" . }}{{ end -}}
   

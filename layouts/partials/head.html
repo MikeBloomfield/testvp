@@ -2,16 +2,21 @@
 <meta charset="utf-8" />
 <link rel="canonical" href="{{ .Permalink | replaceRE "\\.html$" "" | replaceRE "/+$" "" }}" />
 
+{{ if or (and (eq .RelPermalink "/") (eq .Lang "uk")) (and (eq .RelPermalink "/en/") (eq .Lang "en")) }}
+<title>{{ i18n "seotitle" }}</title>
+<meta name="description" content="{{ i18n "seodescription" }}">
+{{ else }}
 {{- with .Params.seoTitle }}
 <title>{{ . }}</title>
 {{- else }}
 <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 {{- end }}
-
 {{- with .Params.seoDescription }}
 <meta name="description" content="{{ . }}" />
+{{- else }}
+<meta name="description" content="{{ .Description }}" />
 {{- end }}
-
+{{ end }}
 
 {{ if isset .Params "tags" }}
 {{ with .Params.tags }}
