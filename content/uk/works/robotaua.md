@@ -1,6 +1,6 @@
 ---
 title: robota.ua
-seoTitle: Аудіо-ДНК та звуки застосунку компанії robota.ua | VP Production
+seoTitle: Аудіо-ДНК та звуки додатку компанії robota.ua | VP Production
 seoDescription: Результат співпраці аудіо-агенції VP Production з компанією robota.ua. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-06T15:56:55+03:00
 image: /images/robotaua/robota new case pic.jpg

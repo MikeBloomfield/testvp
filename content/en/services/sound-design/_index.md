@@ -1,5 +1,7 @@
 ---
 title: Sound Design 
+seoTitle: Sound design services for apps, games & videos | VP Production
+seoDescription: Functional sound design by VP Production. ➤ Сreating the right emotions for audience. Developing a holistic audio system for your project.
 type: service
 quote: Sound is crucial in the production of games and movies. 60% or even 70% of sensations are evoked precisely by sound. At the same time, sound is not only music but also sound effects. Their presence or absence greatly defines the atmosphere of the game.
 author: Hideo Kojima
