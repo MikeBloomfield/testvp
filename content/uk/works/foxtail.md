@@ -73,6 +73,6 @@ FoxTail — це класичний point-and-click квест. Розробни
 
 {{<youtube "zAWD8-ZzH3A" >}}
 
-### Iгролад усіх наявних розділів FoxTail:
+### Iгролад першого розділу FoxTail:
 
-{{<youtube "UtuGCl5i22cxw" >}}
+{{<youtube "mJaXvK1BoV4" >}}

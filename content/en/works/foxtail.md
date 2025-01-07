@@ -70,6 +70,6 @@ By the way, our co-founder Vlad tells more about the story behind the FoxTail so
 
 {{<youtube "zAWD8-ZzH3A" >}}
 
-### Gameplay video of FoxTail’s released chapters:
+### Gameplay video of the FoxTail’s first chapter:
 
-{{<youtube "UtuGCl5i22cxw" >}}
+{{<youtube "mJaXvK1BoV4" >}}
