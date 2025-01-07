@@ -6,10 +6,10 @@
   <title>{{ i18n "seotitle" }}</title>
   <meta name="description" content="{{ i18n "seodescription" }}">
   {{ else }}
-  <title>{{ .Title }}</title>
-  <meta name="description" content="{{ .Description }}">
+  <title>{{ with .Params.seoTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Params.seoDescription }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
   {{ end }}
-  
+
   {{- partial "head.html" . -}}
   {{- block "meta" . }}{{ end -}}
   
