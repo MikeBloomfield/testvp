@@ -187,5 +187,10 @@
         "pressKit": "https://docs.google.com/document/d/1r2qlEuyelg-V-WI4oEcEAiX8QCaPKCVD226dizvdbg8/edit?usp=sharing"
       }
     }
+  },
+  "permalinks": {
+    "page": "/:slug",
+    "post": "/:slug",
+    "portfolio": "/:slug"
   }
 }
