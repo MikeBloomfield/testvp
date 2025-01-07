@@ -2,6 +2,8 @@
 <html lang="{{ .Site.Language }}">
 
 <head>
+  <title>{{ i18n "seotitle" }}</title>
+  <meta name="description" content="{{ i18n "seodescription" }}">
   {{- partial "head.html" . -}}
   {{- block "meta" . }}{{ end -}}
   
