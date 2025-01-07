@@ -12,7 +12,7 @@
     {{ end }}
 </head>
 <body>
-    {{ define "main" }}
+  {{ block "main" . }}
     {{- $works := where .Site.RegularPages ".Type" "work" -}}
 
     <!--  support section starts here  -->
