@@ -1,5 +1,7 @@
 ---
 title: "Carpe Diem Solutions"
+seoTitle: Аудіобрендинг для Carpe Diem Solutions | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з компанією Carpe Diem Solutions. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T02:24:24+03:00
 image: /images/carpe-diem-solutions/cds-thumb.webp
 categories:

@@ -1,5 +1,7 @@
 ---
 title: "Merman"
+seoTitle: Музика для промо-відео команди Merman Art | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з командою Merman Art. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T02:23:32+03:00
 image: /images/merman/merman-thumb.webp
 categories:

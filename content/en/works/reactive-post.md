@@ -1,5 +1,7 @@
 ---
 title: Reactive Post
+seoTitle: Audio Brand "Reactive Post" Charitable Foundation | VP Production
+seoDescription: The result of the cooperation of VP Production with «Reactive Post» charity organization. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-06T15:56:55+03:00
 image: /images/reactivepost/rp case pic.jpg
 categories:

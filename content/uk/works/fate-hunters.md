@@ -1,5 +1,7 @@
 ---
 title: "Fate Hunters"
+seoTitle: Саундтрек гри Fate Hunters | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою Fate Hunters. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T12:47:32+03:00
 image: /images/fate-hunters/fate-hunters-thumb.webp
 categories:

@@ -1,5 +1,7 @@
 ---
 title: "Nikattica"
+seoTitle: Audio Brand for the Nikattica YouTube channel | VP Production
+seoDescription: The result of the cooperation of VP Production with Nikattica YouTube channel. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-26T18:28:32+03:00
 image: /images/nikattica/nikattica-thumb.webp
 categories:

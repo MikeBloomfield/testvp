@@ -1,5 +1,7 @@
 ---
 title: Haydee
+seoTitle: Саунд-дизайн та музика для гри Haydee | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою Haydee. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T02:22:52+03:00
 image: /images/haydee/haydee-thumb.webp
 categories:

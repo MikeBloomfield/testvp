@@ -1,5 +1,7 @@
 ---
 title: "Kitten Match (Opening Video)"
+seoTitle: Музика для інтро-відео гри Kitten Match | VP Production
+seoDescription: Про роботу аудіо-агенції VP Production над звуками та музикою до вступного відео гри Kitten Match. Розповідаємо про концепцію звучання та результат.
 date: 2024-07-27T13:59:00+03:00
 image: /images/kitten-match/kitten-match-thumb.webp
 categories:

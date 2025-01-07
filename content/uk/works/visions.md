@@ -1,5 +1,7 @@
 ---
 title: "Примари"
+seoTitle: Музика до театральної постановки "Примари" | VP Production
+seoDescription: Про роботу аудіо-агенції VP Production над музикою до театральної постановки «Примари». Розповідаємо про концепцію звучання, челлендж та результат.
 date: 2024-07-27T13:59:15+03:00
 image: /images/prymary/prymary-thumb.webp
 categories:

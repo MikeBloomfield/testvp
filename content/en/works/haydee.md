@@ -1,5 +1,7 @@
 ---
 title: Haydee
+seoTitle: Haydee Game OST by VP Production Agency
+seoDescription: The result of the cooperation of VP Production with Haydee game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T02:22:52+03:00
 image: /images/haydee/haydee-thumb.webp
 categories:

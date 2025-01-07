@@ -1,5 +1,7 @@
 ---
 title: "PlayUa"
+seoTitle: Audio Identity for PlayUA | VP Production
+seoDescription: The result of the cooperation of VP Production with PlayUA internet media. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-26T18:27:33+03:00
 image: /images/playua/playua-thumb.webp
 categories:

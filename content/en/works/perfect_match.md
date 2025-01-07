@@ -1,5 +1,7 @@
 ---
 title: "Perfect Match"
+seoTitle: Perfect Match Game Soundtrack | VP Production
+seoDescription: The result of the cooperation of VP Production with Perfect Match game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T12:48:13+03:00
 image: /images/perfect-match/perfect-match-thumb.webp
 categories:

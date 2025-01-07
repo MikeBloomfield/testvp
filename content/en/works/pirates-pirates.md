@@ -1,5 +1,7 @@
 ---
 title: "Pirates? Pirates!"
+seoTitle: Pirates? Pirates! Game Music | VP Production
+seoDescription: The result of the cooperation of VP Production with Pirates? Pirates! game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T13:59:45+03:00
 image: /images/pirates-pirates/pirates-pirates-thumb.webp
 categories:

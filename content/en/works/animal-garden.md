@@ -1,5 +1,7 @@
 ---
 title: "Animal Garden"
+seoTitle: Music from Animal Garden Zoo and Farm Game | VP Production
+seoDescription: The result of the cooperation of VP Production with Animal Garden Zoo and Farm game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T12:47:16+03:00
 image: /images/animal-garden/animal-garden-thumb.webp
 categories:

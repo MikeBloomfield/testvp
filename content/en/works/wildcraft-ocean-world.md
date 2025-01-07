@@ -1,5 +1,7 @@
 ---
 title: "Wildcraft: Ocean World"
+seoTitle: WildCraft - Ocean World OST by VP Production Agency
+seoDescription: The result of the cooperation of VP Production with WildCraft - Ocean World game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-26T18:28:05+03:00
 image: /images/wildcraft-ocean-world/wildcraft-ow-thumb.webp
 categories:

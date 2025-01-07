@@ -1,5 +1,7 @@
 ---
 title: "Wildcraft"
+seoTitle: WildCraft Music by VP Production Agency
+seoDescription: The result of the cooperation of VP Production with WildCraft game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T12:47:48+03:00
 image: /images/wildcraft/wildcraft-thumb.webp
 categories:

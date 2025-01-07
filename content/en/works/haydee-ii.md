@@ -1,5 +1,7 @@
 ---
 title: Haydee II
+seoTitle: Haydee II Game Music & Sounds by VP Production Agency
+seoDescription: The result of the cooperation of VP Production with Haydee II game. We talk about the sound concept, main challenge, and final result.
 date: 2023-06-08T18:34:25+03:00
 image: /images/haydee-ii/haydee-ii-thumb.webp
 categories: 

@@ -1,5 +1,7 @@
 ---
 title: "Fate Hunters"
+seoTitle: Fate Hunters Game Soundtrack | VP Production
+seoDescription: The result of the cooperation of VP Production with Fate Hunters game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T12:47:32+03:00
 image: /images/fate-hunters/fate-hunters-thumb.webp
 categories:

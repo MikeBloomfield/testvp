@@ -1,5 +1,7 @@
 ---
 title: "Jane’s Story: Design Adventure"
+seoTitle: Музика для гри Jane's Story Design Adventure | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою Jane's Story Design Adventure. Розповідаємо про концепцію звучання, головний челлендж та результат.
 date: 2024-07-27T14:13:38+03:00
 image: /images/jane-s-story-design-adventure/jane-s-story-design-adventure-thumb.webp
 categories:

@@ -1,5 +1,7 @@
 ---
 title: "Bronze Hoof"
+seoTitle: Музика гри Bronze Hoof | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою Bronze Hoof. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T13:58:47+03:00
 image: /images/bronze-hoof/bronze-hoof-thumb.webp
 categories:

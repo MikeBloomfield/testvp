@@ -1,5 +1,7 @@
 ---
 title: "Carpe Diem Solutions"
+seoTitle: Audio Logo for Carpe Diem Solutions | VP Production
+seoDescription: The result of the cooperation of VP Production with Carpe Diem Solutions company. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T02:24:24+03:00
 image: /images/carpe-diem-solutions/cds-thumb.webp
 categories:

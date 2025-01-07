@@ -1,5 +1,7 @@
 ---
 title: "Merman"
+seoTitle: Music for Merman Art Promo Video | VP Production
+seoDescription: The result of the cooperation of VP Production with Merman Art team. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T02:23:32+03:00
 image: /images/merman/merman-thumb.webp
 categories:

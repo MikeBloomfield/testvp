@@ -1,5 +1,7 @@
 ---
 title: "Kitten Match (Opening Video)"
+seoTitle: Music for Kitten Match Game Opening Video | VP Production
+seoDescription: About the work of VP Production on the sounds and music for the opening video of Kitten Match game. We talk about the sound concept and the final result.
 date: 2024-07-27T13:59:00+03:00
 image: /images/kitten-match/kitten-match-thumb.webp
 categories:

@@ -1,5 +1,7 @@
 ---
 title: "MAUDAU"
+seoTitle: Аудіобрендинг MAUDAU | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з платформою MAUDAU. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-26T18:28:17+03:00
 image: /images/maudau/maudau-thumb.webp
 categories:

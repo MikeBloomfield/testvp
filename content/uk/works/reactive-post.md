@@ -1,5 +1,7 @@
 ---
 title: Реактивна Пошта
+seoTitle: Аудіобренд організації "Реактивна Пошта" | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з організацією «Реактивна Пошта». Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-06T15:56:55+03:00
 image: /images/reactivepost/rp case pic.jpg
 categories:

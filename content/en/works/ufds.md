@@ -1,5 +1,7 @@
 ---
 title: Ukrainian Fight Drone Simulator
+seoTitle: Ukrainian Fight Drone Simulator Music | VP Production
+seoDescription: The result of the cooperation of VP Production with Ukrainian Fight Drone Simulator project. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-06T15:56:55+03:00
 image: /images/ufds/UFDS case cover.jpg
 categories:

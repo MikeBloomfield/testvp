@@ -1,5 +1,7 @@
 ---
 title: "Pirates? Pirates!"
+seoTitle: Оригінальний саундтрек Pirates? Pirates! | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою Pirates? Pirates!. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T13:59:45+03:00
 image: /images/pirates-pirates/pirates-pirates-thumb.webp
 categories:

@@ -1,5 +1,7 @@
 ---
 title: "Wildcraft: Ocean World"
+seoTitle: Оригінальна музика до гри WildCraft - Ocean World | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою WildCraft - Ocean World. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-26T18:28:05+03:00
 image: /images/wildcraft-ocean-world/wildcraft-ow-thumb.webp
 categories:

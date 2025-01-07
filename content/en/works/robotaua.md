@@ -1,5 +1,7 @@
 ---
 title: robota.ua
+seoTitle: Audio DNA & app sounds for robota.ua | VP Production
+seoDescription: The result of the cooperation of VP Production with robota.ua company. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-06T15:56:55+03:00
 image: /images/robotaua/robota new case pic.jpg
 categories:

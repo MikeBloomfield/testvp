@@ -1,5 +1,7 @@
 ---
 title: Indie Cup
+seoTitle: Indie Cup Audio Brand | VP Production
+seoDescription: The result of the cooperation of VP Production with Indie Cup contest. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-26T15:54:58+03:00
 image: /images/indie-cup/ic-thumb.webp
 categories:

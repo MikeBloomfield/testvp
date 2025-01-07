@@ -1,5 +1,7 @@
 ---
 title: "Wildcraft"
+seoTitle: WildCraft - музика та саунд-дизайн від агенції VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою WildCraft. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T12:47:48+03:00
 image: /images/wildcraft/wildcraft-thumb.webp
 categories:

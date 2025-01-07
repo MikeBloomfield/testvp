@@ -1,5 +1,7 @@
 ---
 title: "Become a star of your life — Get free medical treatment"
+seoTitle: Music for «Become a star of your life» project | VP Production
+seoDescription: The result of the cooperation of VP Production with «Become a star of your life — Get free medical treatment» project. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T12:46:57+03:00
 image: /images/likuysia/likuysia-thumb.webp
 categories:

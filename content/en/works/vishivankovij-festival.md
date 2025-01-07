@@ -1,5 +1,7 @@
 ---
 title: "Vyshivankovyy festival"
+seoTitle: Vyshivankovyy Festival Audio Identity | VP Production
+seoDescription: The result of the cooperation of VP Production with Vyshivankovyy Festival. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T02:23:14+03:00
 image: /images/vishivankovij-festival/vf-thumb.webp
 categories:

@@ -1,5 +1,7 @@
 ---
 title: "WeeSee"
+seoTitle: Звуковий дизайн застосунку WeeSee | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з проєктом WeeSee. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T14:15:46+03:00
 image: /images/weesee/weesee-thumb.webp
 categories:

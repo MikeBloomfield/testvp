@@ -1,5 +1,7 @@
 ---
 title: "WeeSee"
+seoTitle: Sound Design for WeeSee App (Ukraine) | VP Production
+seoDescription: The result of the cooperation of VP Production with WeeSee project. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T14:15:46+03:00
 image: /images/weesee/weesee-thumb.webp
 categories:

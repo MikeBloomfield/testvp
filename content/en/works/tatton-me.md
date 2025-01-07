@@ -1,5 +1,7 @@
 ---
 title: "TATTon.me"
+seoTitle: TATTon.me Sonic Identity | VP Production
+seoDescription: The result of the cooperation of VP Production with TATTon.me project. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T13:59:29+03:00
 image: /images/tatton-me/tatton-me-thumb.webp
 categories:

@@ -1,5 +1,7 @@
 ---
 title: "Bronze Hoof"
+seoTitle: Music from Bronze Hoof Game | VP Production
+seoDescription: The result of the cooperation of VP Production with Bronze Hoof game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T13:58:47+03:00
 image: /images/bronze-hoof/bronze-hoof-thumb.webp
 categories:

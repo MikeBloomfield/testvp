@@ -1,5 +1,7 @@
 ---
 title: "Вишиванковий Фестиваль"
+seoTitle: Офіційний гімн Вишиванкового фестивалю | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з Вишиванковим фестивалем. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T02:23:14+03:00
 image: /images/vishivankovij-festival/vf-thumb.webp
 categories:

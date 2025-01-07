@@ -1,5 +1,7 @@
 ---
 title: "Nikattica"
+seoTitle: Аудіобрендинг для YouTube-каналу Nikattica | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з YouTube-блогером Nikattica. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-26T18:28:32+03:00
 image: /images/nikattica/nikattica-thumb.webp
 categories:

@@ -1,5 +1,7 @@
 ---
 title: "Подкасти HYP"
+seoTitle: Аудіобрендинг HYP Podcasts | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з проєктом HYP Podcasts. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T02:24:48+03:00
 image: /images/hyp-podcasts/hyp-podcasts-thumb.webp
 categories:

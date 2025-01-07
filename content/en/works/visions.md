@@ -1,5 +1,7 @@
 ---
 title: "Visions"
+seoTitle: Music for "Visions" dance-vocal play | VP Production
+seoDescription: About the work of the VP Production on the music for the dance-vocal play «Visions». We talk about the sound concept, the main challenge and the final result.
 date: 2024-07-27T13:59:15+03:00
 image: /images/prymary/prymary-thumb.webp
 categories:

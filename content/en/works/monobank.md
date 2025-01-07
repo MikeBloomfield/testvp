@@ -1,5 +1,7 @@
 ---
 title: monobank
+seoTitle: monobank Music, Sounds & Audio Brand | VP Production
+seoDescription: The result of the cooperation of VP Production with monobank. We talk about the sound concept, main challenge, and final result.
 date: 2023-06-08T18:34:25+03:00
 image: /images/monobank/mobo cover case.jpg
 categories: 

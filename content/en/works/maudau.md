@@ -1,5 +1,7 @@
 ---
 title: "MAUDAU"
+seoTitle: Audio Branding for MAUDAU platform | VP Production
+seoDescription: The result of the cooperation of VP Production with MAUDAU platform. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-26T18:28:17+03:00
 image: /images/maudau/maudau-thumb.webp
 categories:

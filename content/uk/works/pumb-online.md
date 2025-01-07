@@ -1,5 +1,7 @@
 ---
 title: ПУМБ Online
+seoTitle: Аудіобрендинг ПУМБ Online | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з мобільним банкінгом ПУМБ. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-26T15:54:26+03:00
 image: /images/pumb-online/pumb new case pic.jpg
 categories:

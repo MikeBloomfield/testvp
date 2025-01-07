@@ -1,6 +1,6 @@
 ---
 title: FAQ
-seoTitle: FAQ | агенція VP Production
+seoTitle: FAQ | Агенція VP Production
 seoDescription: Відповіді на поширені запитання ➤ Організація процесу співпраці → Юридичні аспекти → Фінансові питання. Усе, що потрібно знати перед початком.
 layout: faq
 type: page

@@ -1,5 +1,7 @@
 ---
 title: Trash Is Fun
+seoTitle: Музика гри Trash is Fun | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою Trash is Fun. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-26T15:55:51+03:00
 image: /images/trash-is-fun/trash-is-fun-thumb.webp
 categories:

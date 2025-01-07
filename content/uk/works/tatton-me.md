@@ -1,5 +1,7 @@
 ---
 title: "TATTon.me"
+seoTitle: Звукова айдентика TATTon.me | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з проєктом TATTon.me. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T13:59:29+03:00
 image: /images/tatton-me/tatton-me-thumb.webp
 categories:

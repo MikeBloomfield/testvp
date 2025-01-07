@@ -1,5 +1,7 @@
 ---
 title: FoxTail
+seoTitle: Оригінальна музика FoxTail | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою FoxTail. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-06T15:56:55+03:00
 image: /images/foxtail/foxtail-thumb.webp
 categories:

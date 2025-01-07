@@ -1,5 +1,7 @@
 ---
 title: Trash Is Fun
+seoTitle: Trash is Fun Game OST | VP Production
+seoDescription: The result of the cooperation of VP Production with Trash is Fun game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-26T15:55:51+03:00
 image: /images/trash-is-fun/trash-is-fun-thumb.webp
 categories:

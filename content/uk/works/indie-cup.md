@@ -1,5 +1,7 @@
 ---
 title: Indie Cup
+seoTitle: Аудіобренд конкурсу Indie Cup | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з конкурсом Indie Cup. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-26T15:54:58+03:00
 image: /images/indie-cup/ic-thumb.webp
 categories:

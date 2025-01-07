@@ -1,5 +1,7 @@
 ---
 title: FoxTail
+seoTitle: FoxTail Game Music by VP Production Agency
+seoDescription: The result of the cooperation of VP Production with FoxTail game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-06T15:56:55+03:00
 image: /images/foxtail/foxtail-thumb.webp
 categories:

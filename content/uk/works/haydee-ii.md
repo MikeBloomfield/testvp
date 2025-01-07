@@ -1,5 +1,7 @@
 ---
 title: Haydee II
+seoTitle: Звуковий дизайн та музика для гри Haydee II | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою Haydee II. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2023-06-08T18:34:25+03:00
 image: /images/haydee-ii/haydee-ii-thumb.webp
 categories: 

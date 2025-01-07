@@ -1,5 +1,7 @@
 ---
 title: First Ukrainian International Bank (PUMB Online)
+seoTitle: Audio Branding for PUMB Online (First Ukrainian International Bank) | VP Production
+seoDescription: The result of the cooperation of VP Production with PUMB online banking. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-26T15:54:26+03:00
 image: /images/pumb-online/pumb new case pic.jpg
 categories:

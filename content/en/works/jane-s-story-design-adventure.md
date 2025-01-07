@@ -1,5 +1,7 @@
 ---
 title: "Jane’s Story: Design Adventure"
+seoTitle: Music for Jane's Story Design Game | VP Production
+seoDescription: The result of the cooperation of VP Production with Jane's Story Design Adventure game. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T14:13:38+03:00
 image: /images/jane-s-story-design-adventure/jane-s-story-design-adventure-thumb.webp
 categories:

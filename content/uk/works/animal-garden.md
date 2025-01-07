@@ -1,5 +1,7 @@
 ---
 title: "Animal Garden"
+seoTitle: Музика для гри Animal Garden Zoo and Farm Game | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою Animal Garden Zoo and Farm. Розповідаємо про концепцію звучання, головний челлендж та результат.
 date: 2024-07-27T12:47:16+03:00
 image: /images/animal-garden/animal-garden-thumb.webp
 categories:

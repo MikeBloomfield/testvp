@@ -1,5 +1,7 @@
 ---
 title: "Perfect Match"
+seoTitle: Саундтрек до гри Perfect Match | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з грою Perfect Match. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-27T12:48:13+03:00
 image: /images/perfect-match/perfect-match-thumb.webp
 categories:

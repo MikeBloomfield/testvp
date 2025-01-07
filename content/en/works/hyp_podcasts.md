@@ -1,5 +1,7 @@
 ---
 title: "HYP Podcasts"
+seoTitle: Audio Branding for HYP Podcasts | VP Production
+seoDescription: The result of the cooperation of VP Production with HYP Podcasts project. We talk about the sound concept, main challenge, and final result.
 date: 2024-07-27T02:24:48+03:00
 image: /images/hyp-podcasts/hyp-podcasts-thumb.webp
 categories:

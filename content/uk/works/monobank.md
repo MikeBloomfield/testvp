@@ -1,5 +1,7 @@
 ---
 title: monobank
+seoTitle: monobank - фірмові звуки та аудіобрендинг від агенції VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з monobank. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2023-06-08T18:34:25+03:00
 image: /images/monobank/mobo cover case.jpg
 categories: 

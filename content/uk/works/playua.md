@@ -1,5 +1,7 @@
 ---
 title: "PlayUa"
+seoTitle: Звукова ідентичність PlayUA | VP Production
+seoDescription: Результат співпраці аудіо-агенції VP Production з порталом PlayUA. Розповідаємо про концепцію звучання, головний челлендж та фінальний результат.
 date: 2024-07-26T18:27:33+03:00
 image: /images/playua/playua-thumb.webp
 categories:
