@@ -15,6 +15,16 @@ to = "/faq"
 status = 301
 
 [[redirects]]
+from = "/en/"
+to = "/en"
+status = 301
+
+[[redirects]]
+from = "/en/portfolio/"
+to = "/en/portfolio"
+status = 301
+
+[[redirects]]
 from = "/ru/about"
 to = "/about"
 status = 301
