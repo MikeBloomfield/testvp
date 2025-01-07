@@ -4,6 +4,7 @@
   to = "/:splat"
   status = 301
   force = true
+  conditions = { Language = ["uk", "en"] }
 
 [[redirects]]
   from = "/en/*/"
